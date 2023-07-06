@@ -1,5 +1,6 @@
 # turkish-sign-language-AI
 
+
 <pre>
   <h2>
 Trakya Üniversitesi 2023 Bitirme Projesi
@@ -38,7 +39,7 @@ In order to maket his situation the easiest, we decided to make a translation ap
 a project that aims to make the user speak speak in sign language with the help of the 
 camera by standing in front of the camera or to vocalize the words in Turkish language 
 with the help of artificial intelligence
+</pre>
 
-<h1>Kelimeler - Words</h1>
+  ![kelime karmaşıklık modeli](https://github.com/canerakinn/turkish-sign-language-AI/assets/82888722/99e9ed8d-4acc-4420-b7e3-fb6e460bb56a)
 
-<pre>
