@@ -40,6 +40,7 @@ a project that aims to make the user speak speak in sign language with the help 
 camera by standing in front of the camera or to vocalize the words in Turkish language 
 with the help of artificial intelligence
 </pre>
+##
 ## Kelimeler- Words
 ### Karmaşıklık Matrisi - Confusion Matrix
   ![kelime karmaşıklık modeli](https://github.com/canerakinn/turkish-sign-language-AI/assets/82888722/99e9ed8d-4acc-4420-b7e3-fb6e460bb56a)
@@ -47,5 +48,15 @@ with the help of artificial intelligence
   ![kelime renkleri](https://github.com/canerakinn/turkish-sign-language-AI/assets/82888722/af1c8926-5879-41f6-8aa3-83fef9569682)
 ### Sonuç Grafikleri - Results Charts
   ![kelimegrafik](https://github.com/canerakinn/turkish-sign-language-AI/assets/82888722/fc75c8e3-7bda-450d-90ef-9cb4fdede8ca)
+
+##  
+## Harfler- Letters
+### Karmaşıklık Matrisi - Confusion Matrix
+![harf karmasıklık](https://github.com/canerakinn/turkish-sign-language-AI/assets/82888722/8d8b5705-3373-405f-ba97-f277e80cb40b)
+### Sınıflar ve Anotasyonlar - Classes and Annotations
+![harfiçin sınıf](https://github.com/canerakinn/turkish-sign-language-AI/assets/82888722/a41a5800-e89c-4143-9fac-c28893be7e0f)
+### Sonuç Grafikleri - Results Charts
+![harf için grafik](https://github.com/canerakinn/turkish-sign-language-AI/assets/82888722/28369aaa-b8d8-455d-b750-bb5dc55338ca)
+
 ### Uygulama Arayüzü - Application Interface
   ![tamam](https://github.com/canerakinn/turkish-sign-language-AI/assets/82888722/f431a467-1399-4761-89db-0ad331032cf9)
