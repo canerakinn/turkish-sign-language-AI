@@ -38,4 +38,7 @@ In order to maket his situation the easiest, we decided to make a translation ap
 a project that aims to make the user speak speak in sign language with the help of the 
 camera by standing in front of the camera or to vocalize the words in Turkish language 
 with the help of artificial intelligence
+
+<h1>Kelimeler - Words</h1>
+
 <pre>
