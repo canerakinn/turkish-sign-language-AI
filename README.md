@@ -40,6 +40,12 @@ a project that aims to make the user speak speak in sign language with the help 
 camera by standing in front of the camera or to vocalize the words in Turkish language 
 with the help of artificial intelligence
 </pre>
-
+## Kelimeler- Words
+### Karmaşıklık Matrisi - Confusion Matrix
   ![kelime karmaşıklık modeli](https://github.com/canerakinn/turkish-sign-language-AI/assets/82888722/99e9ed8d-4acc-4420-b7e3-fb6e460bb56a)
-
+### Sınıflar ve Anotasyonlar - Classes and Annotations
+  ![kelime renkleri](https://github.com/canerakinn/turkish-sign-language-AI/assets/82888722/af1c8926-5879-41f6-8aa3-83fef9569682)
+### Sonuç Grafikleri - Results Charts
+  ![kelimegrafik](https://github.com/canerakinn/turkish-sign-language-AI/assets/82888722/fc75c8e3-7bda-450d-90ef-9cb4fdede8ca)
+### Uygulama Arayüzü - Application Interface
+  ![tamam](https://github.com/canerakinn/turkish-sign-language-AI/assets/82888722/f431a467-1399-4761-89db-0ad331032cf9)
