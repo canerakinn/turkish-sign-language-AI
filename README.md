@@ -5,7 +5,7 @@
   <h2>
 Trakya Üniversitesi 2023 Bitirme Projesi
   </h2>
- <h2>Uygulama Raporu</h2> 
+ <h2>Uygulama Raporu- Application Report</h2> 
   <a href="https://github.com/canerakinn/turkish-sign-language-AI/blob/master/turkish-sign-language-AI.pdf"> Uygulamanın PDF dosyasını GÖRÜNTÜLEMEK için tıklayınız.</a>
   <a href="https://github.com/canerakinn/turkish-sign-language-AI/raw/master/turkish-sign-language-AI.pdf"> Uygulamanın PDF dosyasını İNDİRMEK için tıklayınız.</a>
   
